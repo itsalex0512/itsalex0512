@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsalex0512.
-- 🌱 I’m currently learning C++ (novice level), as well as Python and CSS. I will be a freshman in UIT for the next 4 years.
+- 🌱 I’m currently learning C++ (novice level), as well as Python and CSS. I will be an undergraduate student in UIT for the next 4 years.
 - 💞️ I’m looking to collaborate on some projects, create some little stuffs from my knowledge, and get in touch with more buddies on this platform.
 - 📫 You can contact me via my email or discord:
   + itschinh0512@gmail.com
